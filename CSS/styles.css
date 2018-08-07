@@ -1,0 +1,83 @@
+/* Global Styles */
+
+body {
+    background: #222;
+    font-size: 24px;
+    font-family: arial;
+    max-width: 1024px;
+    margin: auto;
+  }
+  
+  #toc, #credits {
+    text-align: center;
+  }
+  
+  @media only screen and (min-width: 30em) {
+    body {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 0.5em;
+    }
+    h1, #toc, #credits {
+      grid-column-start: 1; 
+      grid-column-end: 3; 
+    }
+  }
+  
+  /* H1 */
+  h1 {
+    color: #EFE254;
+    font-family: helvetica;
+    overflow: hidden;
+    white-space: nowrap; 
+    letter-spacing: .1em;
+    animation: 
+      typing 2s steps(30, end);
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* image */
+  
+  svg {
+    max-width: 100%;
+    display: block;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    animation-name: slide;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes slide {
+    to {
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+  }
+  
+  
+  /* Text */
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  
+  }
+  
+  #text {
+    left: 10%;
+    opacity: 0;
+    color: #3B9DEC;
+    animation-name: fadeIn;
+    animation-delay: 1.2s;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+  }
