@@ -95,3 +95,9 @@ a:hover {
   text-decoration: underline;
   background: none;
 }
+
+a[name] {
+  color: skyblue;
+  background: none;
+  text-decoration: none;
+}
