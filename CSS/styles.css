@@ -81,3 +81,17 @@ body {
     animation-duration: 1.5s;
     animation-fill-mode: forwards;
   }
+
+  /* Links */
+
+  a, a:link, a:visited, a:active {
+    background-color: yellow;
+    text-decoration: none;
+    color: skyblue;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline;
+  background: none;
+}
