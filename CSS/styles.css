@@ -46,6 +46,7 @@ body {
   svg {
     max-width: 100%;
     display: block;
+    height: auto;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     animation-name: slide;
     animation-delay: 1s;
