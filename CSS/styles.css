@@ -85,19 +85,14 @@ body {
   /* Links */
 
   a, a:link, a:visited, a:active {
-    background-color: yellow;
-    text-decoration: none;
-    color: skyblue;
+    color: #57C003;
 }
 
 a:hover {
   color: yellow;
-  text-decoration: underline;
-  background: none;
 }
 
 a[name] {
-  color: skyblue;
   background: none;
   text-decoration: none;
 }
