@@ -11,6 +11,14 @@ body {
   #toc, #credits {
     text-align: center;
   }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
   
   @media only screen and (min-width: 500px) {
     body {
@@ -22,6 +30,12 @@ body {
     h1, #toc, #credits {
       grid-column-start: 1; 
       grid-column-end: 3; 
+    }
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
     }
   }
   
