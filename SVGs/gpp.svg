@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="458px" height="374px" viewBox="0 0 458 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>Genuine People Perso</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0" font-family="Arial-Black, Arial Black" font-size="72" font-weight="700" letter-spacing="-4.5">
-        <text id="Genuine-People-Perso" stroke="#57C003" stroke-width="2" fill="#9B9B9B">
-            <tspan x="79.2148438" y="54">Genuine</tspan>
-            <tspan x="105.898438" y="155">People</tspan>
-            <tspan x="-3.17382812" y="256">Personalities</tspan>
-            <tspan x="126.746094" y="357">(GPP)</tspan>
-        </text>
-    </g>
+<svg width="458" height="374" viewBox="0 0 458 374" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Genuine People Perso
+  </title>
+  <text stroke="#57C003" stroke-width="2" fill="#9B9B9B" fill-rule="evenodd" fill-opacity="0" font-family="Arial-Black, Arial Black" font-size="72" font-weight="700" letter-spacing="-4.5">
+    <tspan x="79.215" y="54">Genuine</tspan> <tspan x="105.898" y="155">People</tspan> <tspan x="-3.174" y="256">Personalities</tspan> <tspan x="126.746" y="357">(GPP)</tspan>
+  </text>
 </svg>

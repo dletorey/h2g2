@@ -1,53 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1009px" height="447px" viewBox="0 0 1009 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>App-Decline</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="App-Decline" transform="translate(0.000000, -5.000000)">
-            <text id="100%" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="0.768000012" y="17">100%</tspan>
-            </text>
-            <text id="75%" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="3.94400001" y="116">75%</tspan>
-            </text>
-            <text id="50%" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="3.01600001" y="217">50%</tspan>
-            </text>
-            <text id="25%" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="3.46400001" y="316">25%</tspan>
-            </text>
-            <text id="Share-with-Friends" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="907.584" y="447">Share</tspan>
-            </text>
-            <text id="Create-Content" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="714.432" y="447">Create Content</tspan>
-            </text>
-            <text id="Sign-Up" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="580.496" y="447">Sign Up</tspan>
-            </text>
-            <text id="Open-App" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="408.552" y="447">Open App</tspan>
-            </text>
-            <text id="Install" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="263.432" y="447">Install</tspan>
-            </text>
-            <text id="App-Page-View" font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-0.400000006" fill="#57C003">
-                <tspan x="68.906" y="447">App Page Vie</tspan>
-                <tspan x="169.994" y="447" letter-spacing="-4.5">w</tspan>
-            </text>
-            <path d="M48,411 L1008,411" id="0%" stroke="#57C003" stroke-linecap="square"></path>
-            <path d="M48,311 L1008,311" id="25%" stroke="#57C003" stroke-linecap="square"></path>
-            <path d="M48,211 L1008,211" id="50%" stroke="#57C003" stroke-linecap="square"></path>
-            <path d="M48,111 L1008,111" id="75%" stroke="#57C003" stroke-linecap="square"></path>
-            <path d="M48,11 L1008,11" id="100%" stroke="#57C003" stroke-linecap="square"></path>
-            <rect id="share" stroke="#57C003" stroke-width="3" x="879.5" y="300.5" width="97" height="109"></rect>
-            <rect id="create" stroke="#57C003" stroke-width="3" x="719.5" y="266.5" width="97" height="143"></rect>
-            <rect id="sign" stroke="#57C003" stroke-width="3" x="559.5" y="233.5" width="97" height="177"></rect>
-            <rect id="open" stroke="#57C003" stroke-width="3" x="399.5" y="120.5" width="97" height="289"></rect>
-            <rect id="install" stroke="#57C003" stroke-width="3" x="239.5" y="88.5" width="97" height="321"></rect>
-            <rect id="view" stroke="#57C003" stroke-width="3" x="79.5" y="37.5" width="97" height="372"></rect>
-        </g>
-    </g>
+<svg width="1009" height="447" viewBox="0 0 1009 447" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    App-Decline
+  </title>
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x=".768" y="17">100%</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="3.944" y="116">75%</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="3.016" y="217">50%</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="3.464" y="316">25%</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="907.584" y="447">Share</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="714.432" y="447">Create Content</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="580.496" y="447">Sign Up</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="408.552" y="447">Open App</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="263.432" y="447">Install</tspan>
+    </text>
+    <text font-family="Poppins-Medium, Poppins" font-size="16" font-weight="400" letter-spacing="-.4" fill="#57C003" transform="translate(0 -5)">
+      <tspan x="68.906" y="447">App Page Vie</tspan> <tspan x="169.994" y="447" letter-spacing="-4.5">w</tspan>
+    </text>
+    <path d="M48 406h960M48 306h960M48 206h960M48 106h960M48 6h960" stroke="#57C003" stroke-linecap="square"/>
+    <path stroke="#57C003" stroke-width="3" d="M879.5 295.5h97v109h-97zM719.5 261.5h97v143h-97zM559.5 228.5h97v177h-97zM399.5 115.5h97v289h-97zM239.5 83.5h97v321h-97zM79.5 32.5h97v372h-97z"/>
+  </g>
 </svg>
